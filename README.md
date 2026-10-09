@@ -30,7 +30,7 @@ The complete flow is:
 
 
 
-GitHub → Jenkins → Docker → GHCR → AWS EC2
+GitHub -Jenkins - Docker - GHCR -AWS EC2
 
 
 
